@@ -1,0 +1,33 @@
+== Credits ==
+
+# Exopite-Simple-Options-Framework
+Lightweight, easy to use Option Framework for WordPress Plugins and Themes and a Metabox Framework for post type meta boxes.
+
+## Fast, easy and lightweight option/metabox form generator.
+- Author: Joe Szalai
+- Version: 20191203
+- Plugin URL: https://joe.szalai.org/exopite/exopite-simple-options-framework/
+- GitHub URL: https://github.com/JoeSz/Exopite-Simple-Options-Framework
+- Author URL: https://joe.szalai.org
+- License: GNU General Public License v3 or later
+- License URI: http://www.gnu.org/licenses/gpl-3.0.html
+- Readme File: admin/exopite-simple-options/README.md
+- License File: admin/exopite-simple-options/LICENSE.txt
+
+## How WishList-dot-com-for-WooCommerce uses Joe Szalai's Exopite-Simple-Options-Framework
+WishList-dot-com-for-WooCommerce's admin panel is based on Exopite-Simple-Options-Framework. Thank you, Joe Szalai.
+
+## Exopite-Simple-Options-Framework has been modified the following ways:
+1) To support Wordpress plugin requirements.
+2) To smiplify the framework so it provides only what's required by WishList-dot-com-for-WooCommerce.
+3) Functions and classes were prefixed with 'wldcfwc_', per Wordpress requirements.
+
+# Select2 4.1.0-rc.0
+- URL: https://select2.github.io
+- License: MIT license
+- License URI: https://github.com/select2/select2/blob/master/LICENSE.md
+
+# Select2-bootstrap-5-theme
+- URL: https://apalfrey.github.io/select2-bootstrap-5-theme/
+- License: MIT licensed
+- License URL: https://apalfrey.github.io/select2-bootstrap-5-theme/about/license/

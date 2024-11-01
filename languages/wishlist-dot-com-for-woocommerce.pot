@@ -1,0 +1,1674 @@
+# Copyright (C) 2024 WishList.com, Inc.
+# This file is distributed under the GPL-3.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: WishList by WishList.com Dev 3.2.17\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wishlist-dot-com-for-woocommerce\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-10-17T22:26:44+02:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: wishlist-dot-com-for-woocommerce\n"
+
+#. Plugin Name of the plugin
+#: C:\xampp\htdocs\Wordpress\blog\wp-content\plugins\wishlist-dot-com-for-woocommerce\wishlist-dot-com-for-woocommerce.php
+msgid "WishList by WishList.com Dev"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: C:\xampp\htdocs\Wordpress\blog\wp-content\plugins\wishlist-dot-com-for-woocommerce\wishlist-dot-com-for-woocommerce.php
+msgid "https://www.wishlist.com/wishlist-dot-com-for-woocommerce"
+msgstr ""
+
+#. Description of the plugin
+#: C:\xampp\htdocs\Wordpress\blog\wp-content\plugins\wishlist-dot-com-for-woocommerce\wishlist-dot-com-for-woocommerce.php
+msgid "A WishList for your store that's also featured on WishList.com to increase your store's visibility, sales and loyalty. <a href=\"https://wishlist.com/wishlist-dot-com-for-woocommerce\" target=\"_blank\"><strong>More on WishList.com</strong></a>"
+msgstr ""
+
+#. Author of the plugin
+#: C:\xampp\htdocs\Wordpress\blog\wp-content\plugins\wishlist-dot-com-for-woocommerce\wishlist-dot-com-for-woocommerce.php
+msgid "WishList.com, Inc."
+msgstr ""
+
+#. Author URI of the plugin
+#: C:\xampp\htdocs\Wordpress\blog\wp-content\plugins\wishlist-dot-com-for-woocommerce\wishlist-dot-com-for-woocommerce.php
+msgid "https://www.wishlist.com"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:200
+msgid "Get support"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:212
+msgid "Button with theme style"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:213
+msgid "Button with custom style"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:214
+msgid "Button using custom css"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:215
+msgid "Text link"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:220
+#: admin/class-wldcfwc-admin.php:234
+msgid "After \"Add to cart\" button"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:221
+msgid "After product information"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:222
+msgid "After thumbnails"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:223
+msgid "After summary"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:224
+#: admin/class-wldcfwc-admin.php:235
+#: admin/class-wldcfwc-admin.php:250
+msgid "Use shortcode"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:225
+#: admin/class-wldcfwc-admin.php:236
+#: admin/class-wldcfwc-admin.php:251
+msgid "Use Javascript"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:226
+#: admin/class-wldcfwc-admin.php:237
+#: admin/class-wldcfwc-admin.php:252
+msgid "Hidden"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:233
+msgid "Before \"Add to cart\" button"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:244
+msgid "Above cart, on right"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:245
+msgid "Above cart, on left"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:246
+msgid "Above cart, centered"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:247
+msgid "Below cart, on right"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:248
+msgid "Below cart, on left"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:249
+msgid "Below cart, centered"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:300
+msgid "Offline. Customers can't see your store's WishList."
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:301
+msgid "Testing - Only administrators, and those who can edit pages, can see your store's WishList."
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:302
+msgid "Live - Customers can see your store's WishList"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:330
+msgid "Consider changing your store's URL to not use \"?\"."
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:332
+msgid "See WordPress Settings / Permalinks, then Permalink structure: \"Post name\", and Product permalinks: \"Shop base\"."
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:334
+msgid "After changing your store's permalink URLs, connect your store to WishList.com."
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:347
+msgid "Connect to WishList.com to configure your WishList."
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:350
+#: admin/class-wldcfwc-admin.php:365
+msgid "The required plugin settings are transmitted to WishList.com."
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:353
+msgid "Connect"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:356
+#: admin/class-wldcfwc-admin.php:1684
+#: admin/class-wldcfwc-admin.php:1891
+#: admin/class-wldcfwc-admin.php:1984
+msgid "Error connecting to WishList.com. Please refresh this page."
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:362
+msgid "Connected to WishList.com."
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:369
+msgid "Delete connection"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:375
+msgid "Are you sure you want to delete this store's connection to WishList.com?"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:378
+msgid "It will no longer be connected to WishList.com or listed on WishList.com"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:381
+msgid "Yes, delete connection"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:383
+msgid "Cancel"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:392
+msgid "Start"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:393
+msgid "Display status &amp; connect to WishList.com"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:399
+msgid "Getting started"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:400
+msgid "These settings control the visibility of your store's WishList and its connection to WishList.com."
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:413
+msgid "Connection to WishList.com"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:429
+msgid "Set the visibility of this plugin"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:430
+msgid "\"Testing\" allows you to test the plugin prior to going live. Don't forget to click \"Save Settings\" after making changes."
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:440
+msgid "Your admin email"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:441
+msgid "This email address is used by WishList.com for support and administrative purposes."
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:442
+msgid "For administrative purposes only"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:454
+msgid "Product page \"Add to WishList\" button"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:456
+msgid "Position of \"Add to WishList\" on the product page"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:466
+msgid "Search &amp; category page \"Add to WishList\" buttons."
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:468
+msgid "Position of \"Add to WishList\" on the search and category page"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:478
+msgid "Shopping cart \"Add to WishList\" button."
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:480
+msgid "Position of \"Add to WishList\" on the shopping cart page"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:495
+#: includes/class-wldcfwc-trait.php:885
+msgid "Add to WishList"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:496
+msgid "Add to WishList buttons and screens"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:502
+#: admin/class-wldcfwc-admin.php:623
+#: admin/class-wldcfwc-admin.php:897
+#: admin/class-wldcfwc-admin.php:1550
+#: admin/class-wldcfwc-admin.php:1698
+#: admin/class-wldcfwc-admin.php:1922
+#: admin/class-wldcfwc-admin.php:1998
+msgid "Description"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:503
+msgid "These settings control the \"Add to WishList\" buttons on your store's shopping pages. These settings also control the \"Add to WishList\" screens"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:513
+msgid "Product page"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:514
+msgid "Search &amp; Category"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:515
+msgid "Shopping Cart"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:562
+msgid "\"Add to WishList\" screens"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:563
+msgid "Your customers see these screens after clicking an Add to WishList button on your store."
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:569
+msgid "Choose what happens when Add to WishList buttons are clicked"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:570
+msgid "How the Add to WishList screens are presented to your customers after clicking the Add to WishList buttons"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:572
+msgid "Navigate to the Add to WishList screens in the main window. The customer is returned to the original page after adding their Wish."
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:573
+msgid "Open a smaller pop-window for the Add to WishList screens. This pop-window is closed after adding their Wish."
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:583
+msgid "Show a spinner when the Add to WishList button is clicked"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:584
+msgid "A standard circular spinner that lets customers know their Wish is being saved."
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:586
+msgid "YES, show a spinner"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:587
+msgid "NO, don't show a spinner"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:597
+msgid "Add to WishList button spinner color"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:605
+msgid "Height of the Add to WishList button spinner"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:617
+msgid "WishList Homepage"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:618
+msgid "WishList homepage"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:624
+msgid "These settings control your store's WishList homepage. Your \"WishList\" top menu links to this WishList homepage. The WishList homepage has 3 buttons &amp; provides customers a quick way to 1) create WishLists, 2) find WishLists, or 3) manage their own WishLists."
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:635
+msgid "URL to your store's WishList homepage"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:637
+msgid "If you have a custom menu for your store, use this url to add the WishList Homepage to it."
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:653
+msgid "WishList homepage title"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:654
+msgid "This is the title of your WishList homepage. This is also the title of the top menu item that leads to your WishList homepage"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:664
+msgid "WishList homepage banner image"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:672
+msgid "WishList homepage subtitle"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:681
+msgid "Subtitle font size"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:695
+msgid "Subtitle description"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:707
+msgid "Description font size"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:721
+msgid "WishList homepage content alignment"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:722
+msgid "Set the alignment of the text and buttons"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:727
+msgid "Centered"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:728
+msgid "Left aligned"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:729
+msgid "Right aligned"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:740
+msgid "WishList homepage footer"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:752
+msgid "footer font size"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:766
+msgid "Show \"powered by WishList.com\" in the footer"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:768
+#: admin/class-wldcfwc-admin.php:872
+#: admin/class-wldcfwc-admin.php:944
+#: admin/class-wldcfwc-admin.php:978
+#: admin/class-wldcfwc-admin.php:993
+#: admin/class-wldcfwc-admin.php:1062
+#: admin/class-wldcfwc-admin.php:1077
+#: admin/class-wldcfwc-admin.php:1092
+#: admin/class-wldcfwc-admin.php:1130
+#: admin/class-wldcfwc-admin.php:1644
+msgid "Yes"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:769
+#: admin/class-wldcfwc-admin.php:873
+#: admin/class-wldcfwc-admin.php:945
+#: admin/class-wldcfwc-admin.php:979
+#: admin/class-wldcfwc-admin.php:994
+#: admin/class-wldcfwc-admin.php:1063
+#: admin/class-wldcfwc-admin.php:1078
+#: admin/class-wldcfwc-admin.php:1093
+#: admin/class-wldcfwc-admin.php:1129
+#: admin/class-wldcfwc-admin.php:1645
+msgid "No"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:779
+msgid "WishList homepage buttons"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:780
+msgid "The homepage's 3 buttons provide quick access to: 1) Create a WishList, 2) Find a WishList, 3) My WishList"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:790
+msgid "Create WishList button"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:791
+msgid "Find WishList button"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:792
+msgid "My WishList button"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:838
+msgid "Tooltip style"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:839
+msgid "Displays information when customers hover over the \"Save to WishList\" buttons"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:845
+msgid "Tooltip background color"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:853
+msgid "Tooltip border color"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:861
+msgid "Tooltip text color"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:870
+msgid "Give the tooltip a shadow"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:890
+msgid "WishList Display"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:891
+msgid "WishList.com display"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:898
+msgid "Your WishList runs on WishList.com. These settings control your WishList's design and functionality that's provided by WishList.com. These settings make WishList.com's functionality match your store's look, so it's a seemless experience for your customers."
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:905
+msgid "WishList features &amp; layout"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:906
+msgid "Customize your WishList display and management pages. "
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:914
+msgid "Description of how WishLists can be used"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:915
+msgid "Shown when saving a Wish to a WishList, and various other places"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:920
+msgid "like: WishLists can include things you like, inspirational ideas, or gifts you'd love for a special occasion. Placeholders: {store_favicon}"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:927
+msgid "Description about your WishList and WishList.com"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:928
+msgid "Tell your customers how convenient your WishList is. Shown when saving a Wish to a WishList, and various other places."
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:933
+msgid "like: This WishList is powerd by WishList.com - one WishList for all stores. Placeholders: {store_favicon}"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:941
+msgid "Allow customers to create multiple WishLists"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:942
+msgid "Customers can create multiple profiles with multiple WishLists under each profile. Like a profile for each child with WishLists under each profile."
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:956
+msgid "Default WishList Layout"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:957
+msgid "Set the default layout of Wishes within a WishList. Customers can then select their preferred layout."
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:962
+msgid "Grid (rows and columns)"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:963
+msgid "List (one item per row)"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:964
+msgid "Collage (a masonry layout)"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:975
+msgid "Allow customers to use their own profile image."
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:976
+msgid "Their profile image comes from their google/apple/facebook login or their WishList.com profile"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:990
+msgid "Allow customers to decorate their WishList with a banner image at the top."
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:991
+msgid "Customers can upload thier own banner image to WishList.com as part of their profile."
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1004
+msgid "Default color of your customers' WishList banner"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1005
+msgid "The WishList banner is a section at the top of the WishList with the customer's name and profile image"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1013
+msgid "Text color of customer's name within their WishList's banner section"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1021
+msgid "Message to show the customer when their WishList is empty"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1032
+msgid "Shop button for empty WishLists"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1040
+msgid "Background color of WishList related icons (SVGs)"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1049
+msgid "Background color for profile initials"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1050
+msgid "For when a profile image is not used or available, and the customer's initials are used as a profile icon instead."
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1051
+msgid "Leave blank to use a variety of subtle colors"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1060
+msgid "Allow following. People can follow a WishList"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1074
+msgid "Allow friending. People can request to be friends. Friend requests can then be accepted or denied"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1075
+msgid "Customers can disable friending on their WishLists, if they want."
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1089
+msgid "Allow comments. Friends can comment on each other's WishLists."
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1090
+msgid "Customers can disable commenting on their WishLists, if they want."
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1103
+msgid "WishList template header &amp; footer"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1104
+msgid "This controls the header, top menu and footer that's used when displaying your WishList on WishList.com. The header is meant to look like your store's header."
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1112
+msgid "Select the source of your WishList template header."
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1114
+msgid "Use your store's logo, name and top menu."
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1115
+#: admin/class-wldcfwc-admin.php:1259
+msgid "Use custom html"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1126
+msgid "Make the header sticky so it's always showing at the top"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1127
+msgid "If you're store's top menu is always showing at the top, then select Yes."
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1140
+#: includes/class-wldcfwc-trait.php:1751
+msgid "Header background color"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1148
+msgid "Header top &amp; bottom padding"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1150
+msgid "like 16px"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1157
+msgid "Header bottom border color"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1159
+msgid "to hide, leave empty"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1166
+msgid "Header bottom border width"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1175
+msgid "Header store logo"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1176
+msgid "This goes in the top left of your WishList template header"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1184
+msgid "Header store name"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1185
+msgid "This goes to the right of your logo in your WishList template header"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1201
+msgid "Header store name color"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1209
+msgid "Menu text color"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1217
+msgid "Menu hover text color"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1225
+msgid "Menu text font size"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1226
+msgid "like: 16px"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1234
+msgid "Menu text decoration"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1235
+msgid "like: none or underline"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1244
+msgid "WishList header template custom html"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1245
+msgid "This html controls the WishList template header and its top menu. It's meant to make your WishList functionality that's displayed by WishList.com look like your store."
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1256
+msgid "WishList template footer."
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1258
+msgid "Don't add a WishList template footer"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1270
+msgid "WishList footer template custom html"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1271
+msgid "This html controls the WishList template footer."
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1282
+msgid "WishList colors, fonts, &amp; settings"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1283
+msgid "These settings are used for your WishList's text, buttons and alerts that are used to display your WishList on WishList.com"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1293
+msgid "Text"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1294
+msgid "Share WishList button"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1295
+msgid "Primary button "
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1296
+msgid "Success button"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1297
+msgid "Danger button"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1298
+msgid "Gift already received flag"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1299
+msgid "Alerts"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1316
+msgid "Default text color"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1317
+#: admin/class-wldcfwc-admin.php:1327
+#: admin/class-wldcfwc-admin.php:1337
+#: includes/class-wldcfwc-trait.php:1202
+#: includes/class-wldcfwc-trait.php:1212
+msgid "(empty is unchanged)"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1326
+msgid "Default font size"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1336
+msgid "Default font family"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1400
+msgid "\"Gift Already Received\" flag color"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1420
+msgid "Success alert background color"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1429
+msgid "Success alert text color"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1438
+msgid "Danger alert background color"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1447
+msgid "Danger alert text color"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1456
+msgid "Info alert background color"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1465
+msgid "Info alert text color"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1544
+msgid "Store Info"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1545
+msgid "Store Information"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1551
+msgid "These settings control your store's listing on WishList.com"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1554
+msgid "Preview"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1563
+msgid "Your store's name"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1564
+msgid "This can be your domain name, or your business name"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1572
+msgid "Your store's logo"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1573
+msgid "Used in various places, like your \\\"Add to WishList\\\" screens and within WishList.com's shopping section."
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1581
+msgid "Your store's icon"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1582
+msgid "This is a favicon, used in various places, like your \\\"Add to WishList\\\" screens and within WishList.com's shopping section. Used for responsive display for mobile devices"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1583
+msgid "roughly 45px square"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1593
+msgid "Your store's description"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1594
+msgid "Used in various places, like within WishList.com's shopping section."
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1607
+msgid "Categories that describe your store"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1608
+msgid "Comma separated list of category names"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1609
+msgid "Like: Women's Apparel, Home Appliances. Used in various places, like within WishList.com's shopping section."
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1620
+msgid "Tags that describe your store"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1621
+msgid "Comma separated list of tags"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1622
+msgid "Like: Fashion, Trendy, Women's Apparel, Home Tech. Used in various places, like within WishList.com's shopping section."
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1639
+msgid "Feature your store within WishList.com's shopping section"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1640
+msgid "Your store will be featured on WishList.com for shoppers to find. The featured listing includes priority placement in search results and featured products from below."
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1642
+msgid "This listing is separate from your store's WishLists, which are always available on WishList.com and your store."
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1656
+msgid "Products to feature with your store's listing on WishList.com"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1657
+msgid "Select "
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1659
+msgid "products to feature"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1682
+msgid "Preview welcome email"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1690
+msgid "Emails"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1691
+msgid "WishList.com email"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1699
+msgid "These settings control WishList emails sent to your customers by WishList.com. These emails come from WishList.com and support your customers' WishList management."
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1709
+msgid "Email Template"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1710
+msgid "Welcome Email"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1711
+msgid "Empty WishList Reminder"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1712
+msgid "Reservation Confirmation"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1713
+msgid "Wish Reserved Notice"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1714
+msgid "Wish on Sale"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1715
+msgid "Wish in Stock"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1888
+msgid "Open Dashboard"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1908
+msgid "Dashboard"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1909
+msgid "WishList.com dashboard"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1923
+msgid "Your WishList data is provided by WishList.com."
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1923
+msgid "You can view & download your WishList data through your WishList.com dashboard."
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1968
+msgid "You can also control the \"Add to WishList\" buttons and other elements using templates:"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1970
+msgid "1) Copy the corresponding plugin template file from wp-content/plugins/"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1970
+msgid "/public/templates/"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1972
+msgid "2) Paste the template file into your theme's directory, like wp-content/themes/storefront."
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1974
+msgid "3) Edit that template to customize the button and other elements."
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1981
+#: admin/class-wldcfwc-admin.php:2027
+msgid "WishList.com CSS"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1991
+#: admin/class-wldcfwc-admin.php:1992
+msgid "Advanced"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:1999
+msgid "Below are ways to customize the design of your WishList."
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:2006
+msgid "Your store's theme"
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:2007
+msgid "You can use your theme's customize settings to design your WishList. There's typically an option like \"Additional CSS\"."
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:2028
+msgid "This CSS controls the design of your WishList that's displayed on WishList.com."
+msgstr ""
+
+#: admin/class-wldcfwc-admin.php:2040
+msgid "Custom templates"
+msgstr ""
+
+#: admin/exopite-simple-options/exopite-simple-options-framework-class.php:281
+#: admin/exopite-simple-options/exopite-simple-options-framework-class.php:310
+msgid "Settings"
+msgstr ""
+
+#: admin/exopite-simple-options/exopite-simple-options-framework-class.php:374
+msgid "Plugin Options"
+msgstr ""
+
+#: admin/exopite-simple-options/exopite-simple-options-framework-class.php:864
+msgid "ERROR:"
+msgstr ""
+
+#: admin/exopite-simple-options/exopite-simple-options-framework-class.php:865
+msgid "This field class is not available!"
+msgstr ""
+
+#: admin/exopite-simple-options/exopite-simple-options-framework-class.php:946
+msgid "Please help us keep this plugin free."
+msgstr ""
+
+#: admin/exopite-simple-options/exopite-simple-options-framework-class.php:948
+msgid "Leave a good review"
+msgstr ""
+
+#: admin/exopite-simple-options/exopite-simple-options-framework-class.php:949
+msgid "Thank you! :)"
+msgstr ""
+
+#: admin/exopite-simple-options/exopite-simple-options-framework-class.php:954
+msgid "Saving..."
+msgstr ""
+
+#: admin/exopite-simple-options/exopite-simple-options-framework-class.php:954
+msgid "Saved Successfully."
+msgstr ""
+
+#: admin/exopite-simple-options/exopite-simple-options-framework-class.php:982
+msgid "Your WishList is not \"Live\"."
+msgstr ""
+
+#: admin/exopite-simple-options/exopite-simple-options-framework-class.php:982
+msgid "Your store is not connected to WishList.com."
+msgstr ""
+
+#: admin/exopite-simple-options/exopite-simple-options-framework-class.php:994
+#: admin/exopite-simple-options/exopite-simple-options-framework-class.php:999
+msgid "Save Settings"
+msgstr ""
+
+#: admin/exopite-simple-options/fields/headermenu.php:15
+msgid "Header menu"
+msgstr ""
+
+#: admin/exopite-simple-options/fields/headermenu.php:17
+msgid "This is the menu in your WishList template header. It should typically match your store's top menu."
+msgstr ""
+
+#: admin/exopite-simple-options/fields/headermenu.php:26
+msgid "del"
+msgstr ""
+
+#: admin/exopite-simple-options/fields/headermenu.php:26
+#: includes/class-wldcfwc-trait.php:1146
+#: includes/class-wldcfwc-trait.php:1191
+msgid "up"
+msgstr ""
+
+#: admin/exopite-simple-options/fields/headermenu.php:26
+#: includes/class-wldcfwc-trait.php:1146
+#: includes/class-wldcfwc-trait.php:1191
+msgid "down"
+msgstr ""
+
+#: admin/exopite-simple-options/fields/headermenu.php:31
+msgid "add menu item"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:69
+msgid "add to wishlist"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:943
+msgid "Copy and paste this shortcode into your page:"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:953
+msgid "The "
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:953
+msgid "button will be included in the DOM and hidden with the CSS class \"wldcfwc-hide\". Add your own Javascript to move the botton to where you want it."
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:988
+msgid "Background color"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:997
+#: includes/class-wldcfwc-trait.php:1432
+msgid "text color"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1006
+msgid "Border color"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1015
+#: includes/class-wldcfwc-trait.php:1450
+msgid "Hover background color"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1024
+#: includes/class-wldcfwc-trait.php:1459
+msgid "Hover text color"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1033
+msgid "Hover border color"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1050
+msgid "button border radius"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1060
+#: includes/class-wldcfwc-trait.php:1202
+msgid "Button top/bottom padding (px)"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1070
+#: includes/class-wldcfwc-trait.php:1212
+msgid "Button left/right padding (px)"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1098
+msgid "Upload an icon (32px x 32px is recommended)"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1107
+msgid "Icon color"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1120
+msgid "Icon width (px)"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1120
+msgid "small"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1120
+msgid "large"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1121
+#: includes/class-wldcfwc-trait.php:1134
+#: includes/class-wldcfwc-trait.php:1147
+#: includes/class-wldcfwc-trait.php:1727
+msgid "like "
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1133
+msgid "Icon left/right position (px)"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1133
+#: includes/class-wldcfwc-trait.php:1177
+msgid "left"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1133
+#: includes/class-wldcfwc-trait.php:1177
+msgid "right"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1146
+msgid "Icon up/down position (px)"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1156
+msgid "Icon margin right (px)"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1157
+msgid "like 0, 10, 15"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1177
+msgid "Button left/right position (px)"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1178
+#: includes/class-wldcfwc-trait.php:1192
+msgid "like 0, 80, -70"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1191
+msgid "Button up/down position (px)"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1203
+msgid "like 16px or leave empty"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1213
+msgid "like 22px or leave empty"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1224
+msgid "(optional)"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1225
+msgid "Optional. CSS \"margin:\" setting, like \"8px 8px 8px 8px\""
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1246
+msgid "Create a WishList button"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1248
+msgid "Add to WishList button"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1259
+msgid "Same style as the product page"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1296
+msgid "Tooltip for hover over"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1423
+msgid "background color"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1441
+msgid "border color"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1468
+msgid "hover border color"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1480
+msgid "Button text"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1554
+msgid "This is the default email template used by WishList.com when sending your store's WishList emails."
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1556
+msgid "This is the welcome email sent to those who create a new WishList on your store."
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1559
+msgid "This is the notice email sent to the WishList maker when they've created a WishList but haven't added anything to it yet. It's sent out just once, a few days after making a new wishlist."
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1562
+msgid "This is the confirmation email sent to those who reserve an item to buy as a gift off someone's wishlist."
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1567
+msgid "This is the notice email sent to the WishList maker when someone reserves a gift off their wishlist. It's sent only if the WishList maker configured their email preferences to receive it."
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1570
+msgid "This is the notice email sent to the WishList maker when an item in their WishList goes on sale."
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1573
+msgid "This is the notice email sent to the WishList maker when an item in their WishList is back in stock."
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1591
+msgid "Enable this email"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1593
+msgid "Enabled"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1594
+msgid "Disabled"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1605
+msgid "Reply to name"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1615
+msgid "Reply to email address"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1625
+msgid "Exclude product categories"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1626
+msgid "Select categories to exclude"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1645
+msgid "Exclude products"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1646
+msgid "Select products to exclude"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1665
+msgid "Email subject"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1677
+msgid "Email header text"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1689
+msgid "Email content"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1702
+msgid "Email template"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1704
+msgid "Use default WishList email template"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1705
+msgid "Customize email"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1716
+msgid "Email header image"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1717
+msgid "This header image goes directly above the header text."
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1726
+msgid "Email header max image width"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1729
+msgid "This is the max width of the header image. It can be smaller"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1737
+msgid "Header font size"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1760
+msgid "Header text color"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1769
+msgid "Email border color"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1778
+msgid "Email body background color"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1787
+msgid "Email body text color"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1796
+msgid "Email link text color"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1797
+msgid "leave blank for default color"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1806
+msgid "Email link css text-decoration"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1815
+msgid "Email footer background color"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1824
+msgid "Email footer"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1825
+msgid "Placeholders: {email_preferences_url} {unsubscribe_url} {privacy_url}"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1966
+msgid "Your WishList is empty. Shop and use the \"Add to WishList\" buttons to add items you like to your WishList."
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:1967
+msgid "Shop now..."
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:2015
+msgid "Share WishList!"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:2029
+msgid "A WishList for all occasions"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:2031
+#: includes/class-wldcfwc-trait.php:2332
+#: includes/class-wldcfwc-trait.php:2431
+msgid "WishLists can include things you like, inspirational ideas, or gifts you'd love for a special occasion."
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:2101
+msgid "Save this item to your WishList"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:2102
+msgid "Save this cart to your WishList. "
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:2129
+msgid "My WishList"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:2135
+msgid "Find a WishList"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:2141
+msgid "Create a WishList"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:2227
+msgid "Item added!"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:2228
+msgid "Browse WishList"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:2229
+msgid "In your WishList"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:2285
+#: wishlist-dot-com-for-woocommerce.php:50
+msgid "Wishlist"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:2307
+#: includes/class-wldcfwc-trait.php:2314
+msgid " Wishlist"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:2308
+#: includes/class-wldcfwc-trait.php:2315
+msgid "Your gift reservation for"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:2309
+#: includes/class-wldcfwc-trait.php:2316
+msgid "Your wish was reserved"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:2310
+#: includes/class-wldcfwc-trait.php:2317
+msgid "Your Wish is On Sale"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:2311
+#: includes/class-wldcfwc-trait.php:2318
+msgid "Your Wish is in Stock"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:2312
+#: includes/class-wldcfwc-trait.php:2319
+msgid "No Wishes Yet?"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:2323
+msgid "welcome to "
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:2323
+msgid "'s wishlist"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:2326
+#: includes/class-wldcfwc-trait.php:2425
+msgid "Here's a link to your wishlist:"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:2326
+#: includes/class-wldcfwc-trait.php:2425
+msgid "My wishlist... "
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:2329
+#: includes/class-wldcfwc-trait.php:2428
+msgid "Find people's WishLists here:"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:2329
+#: includes/class-wldcfwc-trait.php:2428
+msgid "Find a wishlist... "
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:2335
+#: includes/class-wldcfwc-trait.php:2434
+msgid "Our WishList is provided by WishList.com. Share your WishLists with friends and family here, and at WishList.com."
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:2338
+msgid "Enjoy!"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:2344
+#: includes/class-wldcfwc-trait.php:2371
+#: includes/class-wldcfwc-trait.php:2389
+#: includes/class-wldcfwc-trait.php:2404
+#: includes/class-wldcfwc-trait.php:2419
+msgid "Hi"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:2347
+msgid "You've reserved"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:2347
+msgid "of the gift below for"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:2350
+msgid "If you haven't purchased this gift,"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:2350
+msgid "purchase it now."
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:2353
+msgid "If you're not going to purchase this gift,"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:2353
+msgid "undo your reservation now."
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:2362
+msgid "You can edit your reservation here..."
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:2365
+msgid "Thanks!"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:2374
+msgid "Someone just reserved a wish off your WishList to buy as a gift:"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:2377
+msgid "Here are links to the wishes. The wish names are hidden below to keep the suprize."
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:2383
+#: includes/class-wldcfwc-trait.php:2398
+#: includes/class-wldcfwc-trait.php:2413
+#: includes/class-wldcfwc-trait.php:2437
+msgid "Best wishes!"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:2392
+msgid "Item(s) on your wishlist, are now on sale!"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:2392
+msgid "View WishList"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:2407
+msgid "Item(s) on your wishlist, are now in stock!"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:2407
+msgid "View WishList "
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:2422
+msgid "Don't forget to save your first Wish on"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:2631
+msgid "Powered by"
+msgstr ""
+
+#: includes/class-wldcfwc-trait.php:2631
+msgid "WishList.com "
+msgstr ""
+
+#: wishlist-dot-com-for-woocommerce.php:103
+msgid "Please install WooCommerce. \"WishList for WooCommerce\" requires Woocommerce."
+msgstr ""
+
+#: wishlist-dot-com-for-woocommerce.php:154
+msgid "Congratulations, \"WishList for WooCommerce\" is now activated."
+msgstr ""
+
+#: wishlist-dot-com-for-woocommerce.php:157
+msgid "Start setup"
+msgstr ""
+
+#: wishlist-dot-com-for-woocommerce.php:410
+msgid "Invalid nonce"
+msgstr ""
